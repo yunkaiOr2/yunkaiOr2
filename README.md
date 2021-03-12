@@ -1,27 +1,24 @@
-### Hi there
+### Hi ,yunkai here! :wave: 
 
+I make elegantly professional **💻 Distributed Systems, ** for a living
 
-<br/>
-**Mayandev/Mayandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-<br/>
-Here are some ideas to get you started:
-<br/>
--   I’m currently working on ... 
-<br/>
--   I’m currently learning ... 
-<br/>
--   I’m looking to collaborate on ...
-<br/>
--   I’m looking for help with ...
-<br/>
--   Ask me about ...
-<br/>
--   How to reach me: ...
-<br/>
--   Pronouns: ...
-<br/>
-- ⚡ Fun fact: ...
-<br/>
+* 🧐   Focus on high-concurrency & big data business systems
+* 💼   Back End Architect Engineer at [Mobtech](https://www.mob.com/) Group.
+* 🌱   Currently learning Big Data & Financial.
+* 💻   With 6 years' development working experience.
 
-![](https://github-readme-stats.vercel.app/api?username=JanYunkai)
+<details>
+  <summary>Some other achievements about me~e~e</summary>
+  <br>
 
+* 👑   Some GitHub statistical reports:
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanYunkai&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JanYunkai&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=JanYunkai&column=7" alt="JanYunkai's Github Trophy" />
+</p>
+
+</details>
+
+---
