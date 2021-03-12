@@ -1,6 +1,6 @@
 ### Hi ,yunkai here! :wave: 
 
-I make elegantly professional **💻 Distributed Systems, ** for a living
+I make elegantly professional **💻 Native Java, High Availability, High Concurrency, Distributed Systems ** for a living
 
 * 🧐   Focus on high-concurrency & big data business systems
 * 💼   Back End Architect Engineer at [Mobtech](https://www.mob.com/) Group.
