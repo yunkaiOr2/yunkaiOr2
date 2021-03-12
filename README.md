@@ -15,7 +15,7 @@ I make elegantly professional **💻 Distributed Systems, ** for a living
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanYunkai&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JanYunkai&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JanYunkai&show_icons=true&count_private=true&include_all_commits=true&line_height=21&layout=compact" alt="halfrost's Github Stats" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=JanYunkai&column=7" alt="JanYunkai's Github Trophy" />
 </p>
 
