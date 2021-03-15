@@ -7,6 +7,9 @@ I make elegantly professional **💻 Native Java, High Availability, High Concur
 * 🌱   Currently learning Big Data & Financial.
 * 💻   With 6 years' development working experience.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <details>
   <summary>Some other achievements about me~e~e</summary>
   <br>
