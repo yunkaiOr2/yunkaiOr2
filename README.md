@@ -7,6 +7,8 @@ I make elegantly professional **💻 Native Java, High Availability, High Concur
 * 🌱   Currently learning Big Data & Financial.
 * 💻   With 6 years' development working experience.
 
+#### :bar_chart: Weekly development breakdown
+
 <!--START_SECTION:waka-->
 ```text
 Markdown   25 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.34 % 
