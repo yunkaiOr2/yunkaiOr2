@@ -11,8 +11,7 @@ I make elegantly professional **💻 Native Java, High Availability, High Concur
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   33 mins         █████████████████████░░░░   83.63 % 
-Other        6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+TypeScript   5 mins          ████████████████████████▓   98.44 % 
 ```
 <!--END_SECTION:waka-->
 
