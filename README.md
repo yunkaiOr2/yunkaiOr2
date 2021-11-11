@@ -11,7 +11,7 @@ I make elegantly professional **💻 Native Java, High Availability, High Concur
 
 <!--START_SECTION:waka-->
 ```text
-
+Bash    7 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
