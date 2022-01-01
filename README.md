@@ -11,7 +11,8 @@ I make elegantly professional **💻 Native Java, High Availability, High Concur
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML    34 mins         █████████████████████▓░░░   87.16 % 
+Bash    5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 % 
 ```
 <!--END_SECTION:waka-->
 
