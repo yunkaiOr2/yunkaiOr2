@@ -10,9 +10,11 @@ I make elegantly professional **💻 Native Java, High Availability, High Concur
 #### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
 ```text
-Python   12 mins         █████████████████████████   100.00 % 
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 <details>
