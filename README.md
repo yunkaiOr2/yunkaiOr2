@@ -12,7 +12,7 @@ I make elegantly professional **💻 Native Java, High Availability, High Concur
 <!--START_SECTION:waka-->
 
 ```text
-Other   37 mins         ████████████████████████▓   99.05 %
+Other   37 mins         ███████████████████████▓░   94.66 %
 ```
 
 <!--END_SECTION:waka-->
