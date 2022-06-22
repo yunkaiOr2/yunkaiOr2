@@ -12,7 +12,7 @@ I make elegantly professional **💻 Native Java, High Availability, High Concur
 <!--START_SECTION:waka-->
 
 ```text
-Python   2 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
