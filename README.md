@@ -5,7 +5,7 @@ I make elegantly professional **💻 Native Java, High Availability, High Concur
 * 🧐   Focus on high-concurrency & big data business systems
 * 💼   Back End Architect Engineer at [Mobtech](https://www.mob.com/) Group.
 * 🌱   Currently learning Big Data & Financial.
-* 💻   With 6 years' development working experience.
+* 💻   With 8 years' development working experience.
 
 #### :bar_chart: Weekly development breakdown
 
