@@ -2,8 +2,8 @@
 
 I make elegantly professional **💻 Native Java, High Availability, High Concurrency, Distributed Systems ** for a living
 
-* 🧐   Focus on high-concurrency & big data business systems
-* 💼   Back End Architect Engineer at [Mobtech](https://www.mob.com/) Group.
+* 🧐   Focus on high-concurrency & big data business systems.
+* 💼   Back End Architect Engineer.
 * 🌱   Currently learning Big Data & Financial.
 * 💻   With 8 years' development working experience.
 
